@@ -1,0 +1,9 @@
+*{
+    background-color: blue;
+}
+
+.cor {
+    color: red;
+    background-color: white;
+    width: fit-content;
+}
